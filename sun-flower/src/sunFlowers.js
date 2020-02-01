@@ -1,5 +1,6 @@
 import React from 'react';
-export const sunFlowers=[
+
+export const sunFlowers = [
     {
         id:1,
         flower:'Sun Flower 1',
@@ -28,4 +29,4 @@ export const sunFlowers=[
         location: 'New York'
     
     }
-]
+];
